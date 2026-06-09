@@ -18,6 +18,14 @@
 
 ---
 
+## 📹 Apresentação
+
+[Apresentação](https://www.youtube.com/watch?v=BeDK_FI1Fug)
+
+---
+
+---
+
 ## Sobre
 
 Este projeto foi desenvolvido como estudo prático das estruturas de árvores balanceadas AVL e Rubro-Negra, com o objetivo de observar seu funcionamento, suas características de balanceamento e a diferença de comportamento entre elas. Para tornar a implementação mais interessante, o sistema foi construído no contexto de um ranking de jogadores de futebol, aproveitando o clima de Copa do Mundo: cada jogador possui ID, nome e pontuação, e as duas árvores são mantidas em paralelo, permitindo cadastrar jogadores, exibir o ranking em ordem decrescente e acompanhar em tempo real as rotações, recolorações e estatísticas de cada estrutura como número de comparações, rotações realizadas e tempo de execução evidenciando na prática como AVL e Rubro-Negra garantem buscas eficientes e balanceamento mesmo com grandes volumes de dados.
